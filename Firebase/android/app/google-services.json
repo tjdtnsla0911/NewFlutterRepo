@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124762928655",
+    "project_id": "example-a1922",
+    "storage_bucket": "example-a1922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124762928655:android:b52f41307646401e71d57a",
+        "android_client_info": {
+          "package_name": "com.rollcake.fire_fase_test"
+
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124762928655-mj3nq823j72kgs2dd1l2047a1lpbadqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZqfSn2gSn5f3nkfBr7kBlq28KCyAG7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124762928655-mj3nq823j72kgs2dd1l2047a1lpbadqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
